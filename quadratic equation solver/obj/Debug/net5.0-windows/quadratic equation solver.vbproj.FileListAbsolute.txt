@@ -1,0 +1,38 @@
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.vbprojAssemblyReference.cache
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic_equation_solver.Form1.resources
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.vbproj.GenerateResource.cache
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.AssemblyInfo.vb
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.vbproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\bin\Debug\net5.0-windows\quadratic equation solver.exe
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\bin\Debug\net5.0-windows\quadratic equation solver.deps.json
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\bin\Debug\net5.0-windows\quadratic equation solver.runtimeconfig.json
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\bin\Debug\net5.0-windows\quadratic equation solver.runtimeconfig.dev.json
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\bin\Debug\net5.0-windows\quadratic equation solver.dll
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\bin\Debug\net5.0-windows\ref\quadratic equation solver.dll
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\bin\Debug\net5.0-windows\quadratic equation solver.pdb
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic_equation_solver.Resources.resources
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.dll
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\ref\quadratic equation solver.dll
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.pdb
+C:\Users\Raphael\Desktop\Quadra\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.genruntimeconfig.cache
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\bin\Debug\net5.0-windows\quadratic equation solver.exe
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\bin\Debug\net5.0-windows\quadratic equation solver.deps.json
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\bin\Debug\net5.0-windows\quadratic equation solver.runtimeconfig.json
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\bin\Debug\net5.0-windows\quadratic equation solver.runtimeconfig.dev.json
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\bin\Debug\net5.0-windows\quadratic equation solver.dll
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\bin\Debug\net5.0-windows\ref\quadratic equation solver.dll
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\bin\Debug\net5.0-windows\quadratic equation solver.pdb
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.vbprojAssemblyReference.cache
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic_equation_solver.Form1.resources
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic_equation_solver.Resources.resources
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.vbproj.GenerateResource.cache
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.AssemblyInfoInputs.cache
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.AssemblyInfo.vb
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.vbproj.CoreCompileInputs.cache
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.dll
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\ref\quadratic equation solver.dll
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.pdb
+C:\Users\Raphael\Desktop\Group work for factual programming\quadratic equation solver\quadratic equation solver\obj\Debug\net5.0-windows\quadratic equation solver.genruntimeconfig.cache
